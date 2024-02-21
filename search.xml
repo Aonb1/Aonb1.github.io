@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>随笔录</title>
-    <url>/2024/02/21/%E4%BD%A0%E5%A5%BD/</url>
-    <content><![CDATA[<p>  和客户做生意，直接让利或者间接让利，通常能收获客户的长期合作，其中间接让利很讲技巧，需要花时间了解客户的背景，才能更好的打磨，再返利给客户。</p>
-<p>  换种角度想，把单独的利益变成互利合作共赢，同时也能壮大自己。</p>
-<p>  但这一切的前提是把产品做的优秀，当然还有一种直接且致命的方法，垄断，危险又迷人。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>testCN</title>
-    <url>/2024/02/22/again/</url>
-    <content><![CDATA[<p>  你要明白有些行业，职业，工作内容是不会让你成长的。<br>   因为大部分人的工作内容是不希望你会思考的，你最大的任务是执行”领导们的思考”。所谓的管理学，管理模式，管理技巧是把人当一个没有思考的动物圈起来管理。<br>  利用人性，利用动物本能竞争内卷管理，越大的企业，越大的组织规矩反而越多越细。像极了大型”动物园”去压抑人追求自己的本能，思考的本能，因为他们会让你的思考感觉性价比很低，服从才能够获取更大的利益。<br>  而白手起家的创业是让你从了解这个社会的运行规律开始学习。</p>
-<p>  可以把自己想像成草原里的狼，如果快要饿死了就不要管什么草原规则去狩猎，但是你如果积累过原始资本你就要努力加入制定草原规则的群体或者坚定不移的保护维持这个草原规则，因为任何一个不遵守草原规则的人都是在损害你的利益。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2024/02/21/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
@@ -31,6 +16,21 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>testCN</title>
+    <url>/2024/02/22/again/</url>
+    <content><![CDATA[<p>  你要明白有些行业，职业，工作内容是不会让你成长的。<br>   因为大部分人的工作内容是不希望你会思考的，你最大的任务是执行”领导们的思考”。所谓的管理学，管理模式，管理技巧是把人当一个没有思考的动物圈起来管理。<br>  利用人性，利用动物本能竞争内卷管理，越大的企业，越大的组织规矩反而越多越细。像极了大型”动物园”去压抑人追求自己的本能，思考的本能，因为他们会让你的思考感觉性价比很低，服从才能够获取更大的利益。<br>  而白手起家的创业是让你从了解这个社会的运行规律开始学习。</p>
+<p>  可以把自己想像成草原里的狼，如果快要饿死了就不要管什么草原规则去狩猎，但是你如果积累过原始资本你就要努力加入制定草原规则的群体或者坚定不移的保护维持这个草原规则，因为任何一个不遵守草原规则的人都是在损害你的利益。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>随笔录</title>
+    <url>/2024/02/21/%E4%BD%A0%E5%A5%BD/</url>
+    <content><![CDATA[<p>  和客户做生意，直接让利或者间接让利，通常能收获客户的长期合作，其中间接让利很讲技巧，需要花时间了解客户的背景，才能更好的打磨，再返利给客户。</p>
+<p>  换种角度想，把单独的利益变成互利合作共赢，同时也能壮大自己。</p>
+<p>  但这一切的前提是把产品做的优秀，当然还有一种直接且致命的方法，垄断，危险又迷人。</p>
 ]]></content>
   </entry>
 </search>
