@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>aoni1</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-02-22T07:10:27.629Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>aoni1</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>testCN</title>
+    <link href="http://example.com/2024/02/22/again/"/>
+    <id>http://example.com/2024/02/22/again/</id>
+    <published>2024-02-21T17:39:03.674Z</published>
+    <updated>2024-02-22T07:10:27.629Z</updated>
+    
+    <content type="html"><![CDATA[<p>  你要明白有些行业，职业，工作内容是不会让你成长的。<br>   因为大部分人的工作内容是不希望你会思考的，你最大的任务是执行”领导们的思考”。所谓的管理学，管理模式，管理技巧是把人当一个没有思考的动物圈起来管理。<br>  利用人性，利用动物本能竞争内卷管理，越大的企业，越大的组织规矩反而越多越细。像极了大型”动物园”去压抑人追求自己的本能，思考的本能，因为他们会让你的思考感觉性价比很低，服从才能够获取更大的利益。<br>  而白手起家的创业是让你从了解这个社会的运行规律开始学习。</p><p>  可以把自己想像成草原里的狼，如果快要饿死了就不要管什么草原规则去狩猎，但是你如果积累过原始资本你就要努力加入制定草原规则的群体或者坚定不移的保护维持这个草原规则，因为任何一个不遵守草原规则的人都是在损害你的利益。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;  你要明白有些行业，职业，工作内容是不会让你成长的。&lt;br&gt;   因为大部分人的工作内容是不希望你会思考的，你最大的任务是执行”领导们的思考”。所谓的管理学，管理模式，管理技巧是把人当一个没有思考的动物圈起来管理。&lt;br&gt;  利用人性，利用动物本能竞争内卷管理，越大的企业</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>随笔录（已加密）</title>
+    <link href="http://example.com/2024/02/21/%E4%BD%A0%E5%A5%BD/"/>
+    <id>http://example.com/2024/02/21/%E4%BD%A0%E5%A5%BD/</id>
+    <published>2024-02-21T09:11:38.278Z</published>
+    <updated>2024-02-22T07:13:46.810Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="1ff2a170b5b407a727673951b91f9e4bb7c7a321e7880259dc9d5492d55d2905">4630436162ade97ba2718b7d0c4b3b63368ac0a52e88df9dc515d77cab944866c0f2910f8e21dbcf54e909f4b6b37e11bd579875d445ffe806995060d035fbca8c52fd9b2bb90734f1cf550aedcb5ad992a56ee7358dadf9430ed05dc7f0967a6618f0c97a615380055dc2e7a307461ed1b4c0abe96ee8d39dee86630ea9507740a3ff77a6ffb47fc1a27061b2fd01d39eea8d10849247e119daa278f37ab8404a56f68454d046a346730cde6de95c3f8bc092abc4d15a091a89af122bd2bb3c7f3b53d423a1199725dfee2425e0aca1d71d9eaa970cc7fbd1bf8b397529fa25321a447ad5a13dcad351045d368258cd141f06fb0b9e6e6ca1856f917c8c4c0fbd8d0680fca0a0e4a53320ff446ca4ce54f2bb8dff803fcfc0d2d034924bc78bea501e3e9bf1ab3adfb46e9c252c8159d2b39f3c53cff91d52478e0ef8ef6ab4f38e21597c47969eea7899dae95db0ef304825c0cfdb267086418947a5d05fbb36edb4b47b8c168f8f7d30d848710c1169d1788895af748a658f9e1c5ecaeb61738da8fb26bd1ebef384afdc57a75c28e864109c843b7e9edf3db9c1585b51275449e255e8b1987e23ad2e85a3a26a1a441261ba0383b200b6544b238375b1d5158fc8b54c2b7d3eee3f1e6fb1f5d2bbc0ee6ac3d454a5543acfb5371378010f</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2024/02/21/hello-world/"/>
+    <id>http://example.com/2024/02/21/hello-world/</id>
+    <published>2024-02-21T06:33:51.637Z</published>
+    <updated>2024-02-21T09:10:30.249Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a class=&quot;link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;! This is your very first post. Che</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

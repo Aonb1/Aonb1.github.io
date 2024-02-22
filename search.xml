@@ -26,11 +26,19 @@
 ]]></content>
   </entry>
   <entry>
-    <title>随笔录</title>
+    <title>随笔录（已加密）</title>
     <url>/2024/02/21/%E4%BD%A0%E5%A5%BD/</url>
-    <content><![CDATA[<p>  和客户做生意，直接让利或者间接让利，通常能收获客户的长期合作，其中间接让利很讲技巧，需要花时间了解客户的背景，才能更好的打磨，再返利给客户。</p>
-<p>  换种角度想，把单独的利益变成互利合作共赢，同时也能壮大自己。</p>
-<p>  但这一切的前提是把产品做的优秀，当然还有一种直接且致命的方法，垄断，危险又迷人。</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="1ff2a170b5b407a727673951b91f9e4bb7c7a321e7880259dc9d5492d55d2905">4630436162ade97ba2718b7d0c4b3b63368ac0a52e88df9dc515d77cab944866c0f2910f8e21dbcf54e909f4b6b37e11bd579875d445ffe806995060d035fbca8c52fd9b2bb90734f1cf550aedcb5ad992a56ee7358dadf9430ed05dc7f0967a6618f0c97a615380055dc2e7a307461ed1b4c0abe96ee8d39dee86630ea9507740a3ff77a6ffb47fc1a27061b2fd01d39eea8d10849247e119daa278f37ab8404a56f68454d046a346730cde6de95c3f8bc092abc4d15a091a89af122bd2bb3c7f3b53d423a1199725dfee2425e0aca1d71d9eaa970cc7fbd1bf8b397529fa25321a447ad5a13dcad351045d368258cd141f06fb0b9e6e6ca1856f917c8c4c0fbd8d0680fca0a0e4a53320ff446ca4ce54f2bb8dff803fcfc0d2d034924bc78bea501e3e9bf1ab3adfb46e9c252c8159d2b39f3c53cff91d52478e0ef8ef6ab4f38e21597c47969eea7899dae95db0ef304825c0cfdb267086418947a5d05fbb36edb4b47b8c168f8f7d30d848710c1169d1788895af748a658f9e1c5ecaeb61738da8fb26bd1ebef384afdc57a75c28e864109c843b7e9edf3db9c1585b51275449e255e8b1987e23ad2e85a3a26a1a441261ba0383b200b6544b238375b1d5158fc8b54c2b7d3eee3f1e6fb1f5d2bbc0ee6ac3d454a5543acfb5371378010f</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
   </entry>
 </search>
